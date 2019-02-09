@@ -1,0 +1,11 @@
+{
+  "extends": [
+    "tslint:recommended"
+  ],
+  "jsRules": {},
+  "rules": {
+    "max-line-length": [true, 40],
+    "unified-signatures": false
+  },
+  "rulesDirectory": []
+}
